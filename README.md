@@ -3,7 +3,7 @@
 ## Purpose
 Video Player built using CSS styling and HTML. Functionality built using JS methods and code. 
 
-### See live code here <https://wildelyssa.github.io/music-player/> 
+### See live code here <https://wildelyssa.github.io/video-player/> 
 
 ## Tech used
 HTML
